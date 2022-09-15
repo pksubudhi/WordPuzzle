@@ -1,3 +1,10 @@
+/**
+Author: P K SUBUDHI
+Email: mailtopksubudhi@gmail.com
+WhatsApp:+91-8895174939
+Website: www.pksubudhi.com
+**/
+
 public class WordPuzzle
 {
 	public static void main(String args[])
